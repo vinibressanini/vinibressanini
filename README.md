@@ -60,7 +60,7 @@
                 src="https://vinibressanini-github-readme-stats.vercel.app/api/top-langs/?username=vinibressanini&layout=compact&theme=tokyonight&count_private=true&show_icons=true&langs_count=8&cache_seconds=3600" />
         </p>
         <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img src="[vinibressanini-github-readme-stats.vercel.app](http://vinibressanini-github-readme-stats-vinibressanini.vercel.app/)/api?username=vinibressanini&&show_icons=true&theme=tokyonight"/>
+            <img src="https://vinibressanini-github-readme-stats.vercel.app/api?username=vinibressanini&&show_icons=true&theme=tokyonight"/>
         </a>
         
 **Contact:**<br>
