@@ -30,7 +30,7 @@
                         width="35px" height="35px"></a>
             </td>
             <td>
-                <a href="" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"
+                <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" title="C#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg"
                         alt="C#" width="35px" height="35px"></a>
             </td>
             <td>
