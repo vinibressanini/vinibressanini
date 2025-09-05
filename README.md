@@ -16,7 +16,7 @@
         </tr>
     </table>
 
-**Technologies that I already 'work' with:**
+**Technologies that I've already worked with:**
 <br><br>
         <tr>
             <td>
